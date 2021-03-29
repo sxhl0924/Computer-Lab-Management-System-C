@@ -1,0 +1,8 @@
+Date:1 Time:2 LabID:2 StuID:1 StuName:xs1109 OrderStatus:-1
+Date:2 Time:1 LabID:1 StuID:1 StuName:xs1109 OrderStatus:0
+Date:5 Time:1 LabID:1 StuID:1 StuName:xs1109 OrderStatus:-1
+Date:4 Time:2 LabID:3 StuID:1 StuName:xs1109 OrderStatus:-1
+Date:2 Time:1 LabID:1 StuID:1 StuName:xs1109 OrderStatus:-1
+Date:1 Time:1 LabID:1 StuID:1 StuName:xs1109 OrderStatus:-1
+Date:1 Time:1 LabID:3 StuID:1 StuName:xs1109 OrderStatus:0
+Date:1 Time:2 LabID:2 StuID:1 StuName:xs1109 OrderStatus:1

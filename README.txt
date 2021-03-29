@@ -1,0 +1,1 @@
+This is a computer lab management system for users of different identities developed based on C++.
